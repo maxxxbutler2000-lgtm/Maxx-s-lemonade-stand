@@ -6,7 +6,7 @@ A responsive website for Maxx’s lemonade stand at the DBE roundabout in Dorado
 
 [View the current site](https://maxxs-lemonade-dorado.maxxxbutler2000.chatgpt.site/). The Sites version currently requires the owner’s access.
 
-The site includes the stand story, usual weekend hours, lemonade available at the stand, cookie and golf ball delivery, and email order requests. Titleist Pro V1 and Pro V1x are sold together in bags at $4 per ball. Customers can also request specific golf balls and discuss availability by email.
+The site includes the stand story, usual weekend hours, lemonade available at the stand, cookie and golf ball delivery, and email order requests. Cookies and golf balls can be delivered throughout the Dorado Beach gated community wherever Maxx can reach by electric bike. Titleist Pro V1 and Pro V1x are sold together in bags at $4 per ball. Customers can also request specific golf balls and discuss availability by email.
 
 Contact and order email: **maxxxbutler2000@gmail.com**.
 
