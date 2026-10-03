@@ -1,0 +1,7 @@
+{
+  "name": "maxxs-lemonade-stand",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24 <25" },
+  "scripts": { "start": "node server.mjs", "test": "node --test orders.test.mjs" }
+}
