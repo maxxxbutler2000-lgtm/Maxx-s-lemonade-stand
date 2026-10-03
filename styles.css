@@ -67,3 +67,17 @@ nav{margin-top:38px}.button,.menu-toggle{min-height:44px}
  .favorites article{display:flex;flex-direction:column}
  .favorites article>.text-link{align-self:flex-start;margin-top:auto}
 }
+
+/* Direct order requests and the confirmation screen. */
+[hidden]{display:none!important}
+.order-flow{min-width:0}
+.order-trap{position:absolute;left:-10000px;width:1px;height:1px;overflow:hidden}
+.button:disabled{cursor:wait;opacity:.65;transform:none}
+.order-thanks{background:#f2f3e8;border:1px solid var(--line);border-radius:12px;padding:36px}
+.thanks-mark{display:flex;align-items:center;justify-content:center;width:56px;height:56px;border-radius:50%;background:var(--green);color:var(--yellow);font-size:29px;margin-bottom:24px}
+.order-thanks .eyebrow{margin-bottom:12px}
+.order-thanks h3{font-family:'Libre Caslon Display',Georgia,serif;font-size:52px;margin-bottom:20px}
+.order-thanks p{max-width:440px}
+.order-thanks .text-link{display:block;margin-top:14px}
+.order-reference{font-size:13px;color:var(--muted);overflow-wrap:anywhere}
+@media(max-width:680px){.order-thanks{padding:26px}.order-thanks h3{font-size:46px}.order-thanks .button{width:100%}}
